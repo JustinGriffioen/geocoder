@@ -1,1 +1,97 @@
-aW1wb3J0IHsgdXNlUmVmLCB1c2VTdGF0ZSwgdXNlRWZmZWN0IH0gZnJvbSAncmVhY3QnOwppbXBvcnQgbWFwbGlicmVnbCBmcm9tICdtYXBsaWJyZS1nbCc7CmltcG9ydCAnQG1hcGxpYnJlL21hcGxpYnJlLWdsLXN0eWxlLXNwZWMnOwppbXBvcnQgJ21hcGxpYnJlLWdsL2Rpc3QvbWFwbGlicmUtZ2wuY3NzJzsKCmNvbnN0IE9TTV9TVFlMRSA9IHsKICB2ZXJzaW9uOiA4LAogIHNvdXJjZXM6IHsKICAgIG9zbTogewogICAgICB0eXBlOiAncmFzdGVyJywKICAgICAgdGlsZXM6IFsnaHR0cHM6Ly97c30udGlsZS5vcGVuc3RyZWV0bWFwLm9yZy97en0ve3h9L3t5fS5wbmcnXSwKICAgICAgdGlsZVNpemU6IDI1NiwKICAgICAgYXR0cmlidXRpb246ICfCqSBPcGVuU3RyZWV0TWFwJwogICAgfQogIH0sCiAgbGF5ZXJzOiBbewogICAgaWQ6ICdvc20nLAogICAgdHlwZTogJ3Jhc3RlcicsCiAgICBzb3VyY2U6ICdvc20nLAogICAgbWluem9vbTogMCwKICAgIG1heHpvb206IDE5CiAgfV0KfTsKCmNvbnN0IE1BUF9TVFlMRVMgPSB7CiAgb3NtOiBPU01fU1RZTEUsCiAgc2F0ZWxsaXRlOiB7CiAgICB2ZXJzaW9uOiA4LAogICAgc291cmNlczogewogICAgICBzYXRlbGxpdGU6IHsKICAgICAgICB0eXBlOiAncmFzdGVyJywKICAgICAgICB0aWxlczogWydodHRwczovL3NlcnZpY2VzLmFyY2dpc29ubGluZS5jb20vQXJjR0lTL3Jlc3Qvc2VydmljZXMvV29ybGRfSW1hZ2VyeS9NYXBTZXJ2ZXIvdGlsZS97en0ve3l9L3t4fSddLAogICAgICAgIHRpbGVTaXplOiAyNTYsCiAgICAgICAgYXR0cmlidXRpb246ICfCqSBFc3JpJwogICAgICB9CiAgICB9LAogICAgbGF5ZXJzOiBbewogICAgICBpZDogJ3NhdGVsbGl0ZScsCiAgICAgIHR5cGU6ICdyYXN0ZXInLAogICAgICBzb3VyY2U6ICdzYXRlbGxpdGUnLAogICAgICBtaW56b29tOiAwLAogICAgICBtYXh6b29tOiAxOQogICAgfV0KICB9Cn07Cgpjb25zdCBNYXA6IFJlYWN0LkZDID0gKCkgPT4gewogIGNvbnN0IG1hcENvbnRhaW5lciA9IHVzZVJlZjxIVE1MRGl2RWxlbWVudCB8IG51bGw+KG51bGwpOwogIGNvbnN0IG1hcCA9IHVzZVJlZjxtYXBsaWJyZWdsLk1hcCB8IG51bGw+KG51bGwpOwogIGNvbnN0IFtjdXJyZW50U3R5bGUsIHNldEN1cnJlbnRTdHlsZV0gPSB1c2VTdGF0ZSgnb3NtJyk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAobWFwLmN1cnJlbnQgfHwgIW1hcENvbnRhaW5lci5jdXJyZW50KSByZXR1cm47CgogICAgY29uc3QgbWFwSW5zdGFuY2UgPSBuZXcgbWFwbGlicmVnbC5NYXAoewogICAgICBjb250YWluZXI6IG1hcENvbnRhaW5lci5jdXJyZW50LAogICAgICBzdHlsZTogTUFQX1NUWUxFU1tjdXJyZW50U3R5bGVdLAogICAgICBjZW50ZXI6IFstNzQuNSwgNDBdLAogICAgICB6b29tOiA5LAogICAgICBtYXhab29tOiAxOQogICAgfSk7CgogICAgLy8gQWRkIG5hdmlnYXRpb24gY29udHJvbHMKICAgIG1hcEluc3RhbmNlLmFkZENvbnRyb2wobmV3IG1hcGxpYnJlZ2wuTmF2aWdhdGlvbkNvbnRyb2woKSwgJ3RvcC1yaWdodCcpOwogICAgCiAgICAvLyBBZGQgY3VzdG9tIHN0eWxlIHN3aXRjaGVyCiAgICBjb25zdCBzdHlsZVN3aXRjaGVyRGl2ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgICBzdHlsZVN3aXRjaGVyRGl2LmNsYXNzTmFtZSA9ICdtYXBsaWJyZWdsLWN0cmwgbWFwbGlicmVnbC1jdHJsLWdyb3VwJzsKICAgIGNvbnN0IHN0eWxlU3dpdGNoZXJCdXR0b24gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdidXR0b24nKTsKICAgIHN0eWxlU3dpdGNoZXJCdXR0b24uY2xhc3NOYW1lID0gJ21hcGxpYnJlZ2wtY3RybC1pY29uJzsKICAgIHN0eWxlU3dpdGNoZXJCdXR0b24uaW5uZXJIVE1MID0gY3VycmVudFN0eWxlID09PSAnb3NtJyA/ICfwn5quJyA6ICfwn5iZJzsKICAgIHN0eWxlU3dpdGNoZXJCdXR0b24uYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCAoKSA9PiB7CiAgICAgIGNvbnN0IG5ld1N0eWxlID0gY3VycmVudFN0eWxlID09PSAnb3NtJyA/ICdzYXRlbGxpdGUnIDogJ29zbSc7CiAgICAgIHNldEN1cnJlbnRTdHlsZShuZXdTdHlsZSk7CiAgICAgIG1hcC5jdXJyZW50Py5zZXRTdHlsZShNQVBfU1RZTEVTW25ld1N0eWxlXSk7CiAgICAgIHN0eWxlU3dpdGNoZXJCdXR0b24uaW5uZXJIVE1MID0gbmV3U3R5bGUgPT09ICdvc20nID8gJ/Cfmq4nIDogJ/CfmJknOwogICAgfSk7CiAgICBzdHlsZVN3aXRjaGVyRGl2LmFwcGVuZENoaWxkKHN0eWxlU3dpdGNoZXJCdXR0b24pOwogICAgbWFwSW5zdGFuY2UuYWRkQ29udHJvbCh7CiAgICAgIG9uQWRkOiAoKSA9PiBzdHlsZVN3aXRjaGVyRGl2LAogICAgICBvblJlbW92ZTogKCkgPT4ge30sCiAgICB9LCAndG9wLXJpZ2h0Jyk7CgogICAgbWFwLmN1cnJlbnQgPSBtYXBJbnN0YW5jZTsKCiAgICByZXR1cm4gKCkgPT4gewogICAgICBtYXBJbnN0YW5jZS5yZW1vdmUoKTsKICAgICAgbWFwLmN1cnJlbnQgPSBudWxsOwogICAgfTsKICB9LCBbY3VycmVudFN0eWxlXSk7CiAgCiAgcmV0dXJuICgKICAgIDxkaXYgcmVmPXttYXBDb250YWluZXJ9IGNsYXNzTmFtZT0idy1mdWxsIGgtZnVsbCIgLz4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgTWFwOw==
+import { useRef, useState, useEffect } from 'react';
+import maplibregl from 'maplibre-gl';
+import '@maplibre/maplibre-gl-style-spec';
+import 'maplibre-gl/dist/maplibre-gl.css';
+
+const OSM_STYLE = {
+  version: 8,
+  sources: {
+    osm: {
+      type: 'raster',
+      tiles: ['https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'],
+      tileSize: 256,
+      attribution: '© OpenStreetMap'
+    }
+  },
+  layers: [{
+    id: 'osm',
+    type: 'raster',
+    source: 'osm',
+    minzoom: 0,
+    maxzoom: 19
+  }]
+};
+
+const MAP_STYLES = {
+  osm: OSM_STYLE,
+  satellite: {
+    version: 8,
+    sources: {
+      satellite: {
+        type: 'raster',
+        tiles: ['https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'],
+        tileSize: 256,
+        attribution: '© Esri'
+      }
+    },
+    layers: [{
+      id: 'satellite',
+      type: 'raster',
+      source: 'satellite',
+      minzoom: 0,
+      maxzoom: 19
+    }]
+  }
+};
+
+const Map: React.FC = () => {
+  const mapContainer = useRef<HTMLDivElement | null>(null);
+  const map = useRef<maplibregl.Map | null>(null);
+  const [currentStyle, setCurrentStyle] = useState('osm');
+
+  useEffect(() => {
+    if (map.current || !mapContainer.current) return;
+
+    const mapInstance = new maplibregl.Map({
+      container: mapContainer.current,
+      style: MAP_STYLES[currentStyle],
+      center: [-74.5, 40],
+      zoom: 9,
+      maxZoom: 19
+    });
+
+    // Add navigation controls
+    mapInstance.addControl(new maplibregl.NavigationControl(), 'top-right');
+    
+    // Add custom style switcher
+    const styleSwitcherDiv = document.createElement('div');
+    styleSwitcherDiv.className = 'maplibregl-ctrl maplibregl-ctrl-group';
+    const styleSwitcherButton = document.createElement('button');
+    styleSwitcherButton.className = 'maplibregl-ctrl-icon';
+    styleSwitcherButton.innerHTML = currentStyle === 'osm' ? '🛰️' : '🗺️';
+    styleSwitcherButton.addEventListener('click', () => {
+      const newStyle = currentStyle === 'osm' ? 'satellite' : 'osm';
+      setCurrentStyle(newStyle);
+      map.current?.setStyle(MAP_STYLES[newStyle]);
+      styleSwitcherButton.innerHTML = newStyle === 'osm' ? '🛰️' : '🗺️';
+    });
+    styleSwitcherDiv.appendChild(styleSwitcherButton);
+    mapInstance.addControl({
+      onAdd: () => styleSwitcherDiv,
+      onRemove: () => {},
+    }, 'top-right');
+
+    map.current = mapInstance;
+
+    return () => {
+      mapInstance.remove();
+      map.current = null;
+    };
+  }, [currentStyle]);
+  
+  return (
+    <div ref={mapContainer} className="w-full h-full" />
+  );
+};
+
+export default Map;
