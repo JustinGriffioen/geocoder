@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+  @apply min-h-screen;
+}
+
+.maplibregl-ctrl-icon {
+  padding: 5px;
+  background: none !important;
+  border: none !important;
+  cursor: pointer;
+}
+
+.ag-theme-alpine-dark {
+  --ag-background-color: rgb(31, 41, 55);
+  --ag-header-background-color: rgb(17, 24, 39);
+  --ag-odd-row-background-color: rgb(55, 65, 81);
+  --ag-header-foreground-color: rgb(243, 244, 246);
+  --ag-foreground-color: rgb(243, 244, 246);
+}
