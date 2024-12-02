@@ -22,15 +22,4 @@ body {
 
 .maplibregl-ctrl-icon {
   padding: 5px;
-  background: none !important;
-  border: none !important;
-  cursor: pointer;
-}
-
-.ag-theme-alpine-dark {
-  --ag-background-color: rgb(31, 41, 55);
-  --ag-header-background-color: rgb(17, 24, 39);
-  --ag-odd-row-background-color: rgb(55, 65, 81);
-  --ag-header-foreground-color: rgb(243, 244, 246);
-  --ag-foreground-color: rgb(243, 244, 246);
 }

@@ -1,18 +1,18 @@
-import './globals.css';
+import './globals.css'
 
 export const metadata = {
-  title: 'AI-Powered Geocoding Application',
-  description: 'Advanced geocoding with AI-powered data analysis and visualization',
-};
+  title: 'Geocoder',
+  description: 'AI-powered geocoding application',
+}
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }) {
   return (
     <html lang="en">
       <body>{children}</body>
     </html>
-  );
+  )
 }
